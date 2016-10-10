@@ -24,4 +24,4 @@ Right click on a column and press the "Delete" key
 Drag a "Relationship" shape onto the grid.  Where you connect the ends of the Relationship shape is a matter of preference.   Personally, I like connect all Relationship tails to the bottom of the Table, and all of the heads to the top.
 
 # The Template
-The CakePHPDatabaseTemplate.vsdx file contains a users table as a starting point for a new CakePHP database design
+The CakePHPDatabaseTemplate.vsdx file contains a users & groups table as a starting point for a new CakePHP database design
